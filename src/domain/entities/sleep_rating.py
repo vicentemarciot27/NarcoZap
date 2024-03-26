@@ -1,0 +1,1 @@
+# Entidade SleepRating com atributos como user_id, date, rating, etc.
